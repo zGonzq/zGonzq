@@ -1,9 +1,11 @@
-<h1 align="center">¡Hola!👋 soy Gonzalo</h1>
+<h1 align="center">¡Hola!👋 soy Gonzalo </h1>
 <h3 align="center">Estudiante de Analista Programador y titulado en Gráfica</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zgonzq&label=Vistas%20de%20mi%20perfil&color=ff006f&style=flat-square" alt="zgonzq" /> </p>
-- 👨‍💻 Mi pagina web [https://gqnza.tech](https://gqnza.tech)
-- 🌱 Estoy aprendiendo **AstroJS y Next.js**
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zgonzq&label=Vistas%20de%20mi%20perfil&color=ff006f&style=flat-square" alt="zgonzq" /> </p>
+
+- 🌱 Estoy aprendiendo **Astro y Next.js**
+
+- 👨‍💻 Mi [pagina web](https://gqnza.tech) realizada con Astro
 
 <h2 align="left">🚦 Mis redes:</h2>
 <p align="left">
