@@ -10,7 +10,7 @@
 <h2 align="left">🚦 Mis redes:</h2>
 <p align="left">
 <a href="https://twitter.com/zgonzq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zgonzq" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/zgonzq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zgonzq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@zgonzq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zgonzq" height="30" width="40" /></a>
 <a href="https://discord.gg/MFAAW3ahmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MFAAW3ahmy" height="30" width="40" /></a>
 </p>
 
