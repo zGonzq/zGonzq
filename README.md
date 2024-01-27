@@ -10,7 +10,8 @@ Voy en el segundo año de la carrera y mi gusto se centra en el Desarrollo Web y
 *   🖥️  See my portfolio at [Portafolio](http://gqnza.tech)
 *   ✉️  You can contact me at [gonzaloandres2508@gmail.com](mailto:gonzaloandres2508@gmail.com)
 *   🚀  I'm currently working on [Portafolio y panel de Bot](http://gqnza.tech)
-*   🧠  I'm learning Astro<a href="https://www.github.com/zGonzq" target="_blank" rel="noreferrer"><img
+*   🧠  I'm learning Astro
+<a href="https://www.github.com/zGonzq" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/zGonzq?logo=github&style=for-the-badge&color=84cc16&labelColor=1c1917" /></a><a href="https://www.x.com/@zGonzq" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/@zGonzq?logo=twitter&style=for-the-badge&color=84cc16&labelColor=1c1917"
                 /></a><a href="https://www.twitch.tv/zgonzq" target="_blank" rel="noreferrer"><img
