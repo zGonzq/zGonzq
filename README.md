@@ -16,6 +16,6 @@ Voy en el segundo año de la carrera y mi gusto se centra en el Desarrollo Web y
                   src="https://img.shields.io/twitter/follow/@zGonzq?logo=twitter&style=for-the-badge&color=84cc16&labelColor=1c1917"
                 /></a><a href="https://www.twitch.tv/zgonzq" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitch/status/zgonzq?logo=twitchsx&style=for-the-badge&color=84cc16&labelColor=1c1917&label=TWITCH+STATUS" /></a>
-                  ### Socials
+### Socials
                   
                   
