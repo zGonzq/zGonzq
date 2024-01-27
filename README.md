@@ -11,11 +11,12 @@ Voy en el segundo año de la carrera y mi gusto se centra en el Desarrollo Web y
 *   ✉️  You can contact me at [gonzaloandres2508@gmail.com](mailto:gonzaloandres2508@gmail.com)
 *   🚀  I'm currently working on [Portafolio y panel de Bot](http://gqnza.tech)
 *   🧠  I'm learning Astro
+
+### Socials
 <a href="https://www.github.com/zGonzq" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/zGonzq?logo=github&style=for-the-badge&color=84cc16&labelColor=1c1917" /></a><a href="https://www.x.com/@zGonzq" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/@zGonzq?logo=twitter&style=for-the-badge&color=84cc16&labelColor=1c1917"
                 /></a><a href="https://www.twitch.tv/zgonzq" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitch/status/zgonzq?logo=twitchsx&style=for-the-badge&color=84cc16&labelColor=1c1917&label=TWITCH+STATUS" /></a>
-### Socials
                   
                   
