@@ -2,6 +2,7 @@
 <h3 align="center">Estudiante de Analista Programador y titulado en Gráfica</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zgonzq&label=Vistas%20de%20mi%20perfil&color=ff006f&style=flat-square" alt="zgonzq" /> </p>
+<p align="center"><a href="https://discord.com/users/944060279082340433" target="_blank" rel="nofollow"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/944060279082340433?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence"></a></p>
 
 - 🌱 Estoy aprendiendo **Astro y Next.js**
 
@@ -12,11 +13,7 @@
 <a href="https://twitter.com/zgonzq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zgonzq" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@zgonzq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zgonzq" height="30" width="40" /></a>
 <a href="https://discord.gg/MFAAW3ahmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MFAAW3ahmy" height="30" width="40" /></a>
-<p align="center">
-  <a href="https://discord.com/users/944060279082340433" target="_blank" rel="nofollow">
-    <img align="center" src="https://lanyard-profile-readme.vercel.app/api/944060279082340433?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence">
-  </a>
-</p>
+
 
 </p>
 
@@ -29,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zgonzq&show_icons=true&theme=dark&title_color=ff0088&locale=es" alt="zgonzq" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zgonzq&theme=dark" alt="zgonzq" /></p>
+
+
