@@ -12,6 +12,12 @@
 <a href="https://twitter.com/zgonzq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zgonzq" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@zgonzq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zgonzq" height="30" width="40" /></a>
 <a href="https://discord.gg/MFAAW3ahmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MFAAW3ahmy" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://discord.com/users/944060279082340433" target="_blank" rel="nofollow">
+    <img align="center" src="https://lanyard-profile-readme.vercel.app/api/944060279082340433?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence">
+  </a>
+</p>
+
 </p>
 
 <h2 align="left">🔎 Lenguajes y herramientas que tengo conocimiento:</h2>
