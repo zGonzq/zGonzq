@@ -1,8 +1,9 @@
 <h1 align="center">¡Hola!👋 soy Gonzalo </h1>
 <h3 align="center">Estudiante de Analista Programador y titulado en Gráfica</h3>
 
+<p align="center"><a href="https://discord.com/users/944060279082340433" target="_blank" rel="nofollow"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/944060279082340433?&animated=true&borderRadius=10px&idleMessage=Nothing..." alt="Discord Presence"></a></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zgonzq&label=Vistas%20de%20mi%20perfil&color=ff006f&style=flat-square" alt="zgonzq" /> </p>
-<p align="center"><a href="https://discord.com/users/944060279082340433" target="_blank" rel="nofollow"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/944060279082340433?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence"></a></p>
+
 
 - 🌱 Estoy aprendiendo **Astro y Next.js**
 
