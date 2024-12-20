@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zgonzq&label=Vistas%20de%20mi%20perfil&color=ff006f&style=flat-square" alt="zgonzq" /> </p>
 
 
-- 🌱 Estoy aprendiendo **Astro y Next.js**
+- 🌱 Estoy aprendiendo **Astro y MongoDB Certificado**
 
 - 👨‍💻 Mi [pagina web](https://gqnza.tech) realizada con Astro
 
