@@ -30,7 +30,7 @@ Desarrollador Full Stack y Diseñador Gráfico de Temuco, Chile. Titulado como A
 
 ### 🌟 Proyectos Destacados
 
-- 🏢 [**ArauCode**](https://araucode.vercel.app) - Mi empresa de desarrollo web | Plataforma construida con Astro, TypeScript y Tailwind CSS
+- 🏢 [**ArauCode**](https://araucode.cl) - Mi empresa de desarrollo web | En Proceso
 - 💼 [**Portfolio Personal**](https://gleal.cl) - Sitio web profesional y portafolio de proyectos
 - 🛠️ **ArauCode Support** - Sistema de soporte para proyectos web
 
