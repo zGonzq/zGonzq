@@ -25,7 +25,7 @@ Desarrollador Full Stack y Diseñador Gráfico de Temuco, Chile. Titulado como A
 ### 💼 Experiencia Profesional
 
 - 💻 **Desarrollador en Morris y Opazo**: Actualmente desarrollando soluciones tecnológicas profesionales
-- 🚀 **Fundador de ArauCode**: Mi propia empresa de desarrollo web especializada en proyectos modernos
+- 🚀 **Fundador de Enma Studio**: Mi propia empresa de desarrollo web especializada en proyectos modernos
 - 🎨 **Diseño + Desarrollo**: Fusiono creatividad visual con código para crear proyectos únicos
 
 ### 🌟 Proyectos Destacados
