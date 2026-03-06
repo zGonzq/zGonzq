@@ -30,7 +30,7 @@ Desarrollador Full Stack y Diseñador Gráfico de Temuco, Chile. Titulado como A
 
 ### 🌟 Proyectos Destacados
 
-- 🏢 [**ArauCode**](https://araucode.cl) - Mi empresa de desarrollo web | En Proceso
+- 🏢 [**EnmaStudio**](https://enmastudio.cl) - Mi empresa de desarrollo web
 - 💼 [**Portfolio Personal**](https://gleal.cl) - Sitio web profesional y portafolio de proyectos
 
 ### 🎯 Intereses
