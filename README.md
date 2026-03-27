@@ -123,5 +123,5 @@ Si te gusta mi trabajo, puedes invitarme un café ☕
 </p>
 
 <p align="center">
-  <i>⭐️ Desarrollando el futuro, un commit a la vez | Fundador de ArauCode</i>
+  <i>⭐️ Desarrollando el futuro, un commit a la vez | Fundador de EnmaStudio</i>
 </p>
